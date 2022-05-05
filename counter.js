@@ -12,6 +12,8 @@ function count() {
 
  let num = 100;
 
+
+
  function reduce(){
      num--;
      document.querySelector('h2').innerHTML = num;
